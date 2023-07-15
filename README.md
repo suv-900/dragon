@@ -7,7 +7,7 @@ Dragon is a Command Line Interface (CLI) tool designed for quick note-taking. It
 To use Dragon, follow these steps:
 
 1. Open your terminal.
-2. Navigate to the directory where Dragon is installed.
+2. ~~Navigate to the directory where Dragon is installed~~.(working on making directory in working directory)
 3. Run the following command:
 
 ```bash
